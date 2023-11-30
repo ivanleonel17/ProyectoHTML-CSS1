@@ -2,7 +2,8 @@
 
 <a href="https://ivanleonel17.github.io/ProyectoHTML-CSS1/index.html">Link Deploy</a>
 
-<img src="https://imgur.com/undefined" alt="Glottis Imagen 2">
+![Imagen Web CSS](https://i.imgur.com/OoLdOHM.png)
+
 
 Este es el repositorio de la página web que trae la increíble historia de Z4X un robot misionero, historia que nos sirvió de excusa para poner en prática algunas técnicas básicas de CSS basandonos en una web sencilla hecha con HTML en el curso anterior del canal.
 
