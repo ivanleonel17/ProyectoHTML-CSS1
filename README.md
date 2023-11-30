@@ -5,7 +5,7 @@
 ![Imagen Web CSS](https://i.imgur.com/OoLdOHM.png)
 
 
-Este es el repositorio de la página web que trae la increíble historia de Z4X un robot misionero, historia que nos sirvió de excusa para poner en prática algunas técnicas básicas de CSS basandonos en una web sencilla hecha con HTML en el curso anterior del canal.
+Este es el repositorio de la página web que trae la increíble historia de Z4X un robot misionero.
 
 En esta página podrás encontrar:
 
