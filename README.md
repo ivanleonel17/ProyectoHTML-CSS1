@@ -13,4 +13,4 @@ La historia completa de Z4X y sus misiones
 Las misiones que realizó Z4X usando tablas
 Fotos y videos de Z4X usando audiovisuales
 Formulario de contacto
-La página ha sido creada utilizando HTML y CSS. Si eres un principiante en el mundo del desarrollo web, esta página es una excelente oportunidad para practicar tus habilidades y aprender más sobre HTML y CSS.
+La página ha sido creada utilizando HTML y CSS.
